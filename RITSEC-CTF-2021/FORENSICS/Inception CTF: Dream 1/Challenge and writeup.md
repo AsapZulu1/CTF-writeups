@@ -13,7 +13,8 @@ The provided InceptionCTFRITSEC.7z contained Reality.7z
 The first flag was in the Subconcious.txt file extracted from the provided Reality.7z. 
 
 The textfile only contained this:
-Wait a minute, whose subconscious are we going into, exactly? {dnalmaerD}CESTIR
+
+`Wait a minute, whose subconscious are we going into, exactly? {dnalmaerD}CESTIR`
 
 Reversed the last bit. 
 
