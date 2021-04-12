@@ -1,18 +1,19 @@
 # Challenge
 
-Note: This challenge builds on Inception CTF: Dream 2.
+Note: This challenge builds on [Inception CTF: Dream 2](https://github.com/AsapZulu1/CTF-writeups/blob/main/RITSEC-CTF-2021/FORENSICS/Inception%20CTF:%20Dream%202/Challenge%20and%20writeup.md).
 
 While the first two steps were easy it’s all hard from here on out, ThePointMan is the most crucial role of the mission he has to be presentable but without giving away our intentions. Use Alternate Dream State to find the flag before the kick.
 
 # Solution
 
-TheHotel.7z opened with the password genereted in [Inception CTF: Dream 3] () contained the following files:
+TheHotel.7z opened with the password genereted in [Inception CTF: Dream 2](https://github.com/AsapZulu1/CTF-writeups/blob/main/RITSEC-CTF-2021/FORENSICS/Inception%20CTF:%20Dream%202/Challenge%20and%20writeup.md) contained the following files:
 * SnowFortress.7z
 * ThePointMan.txt
 * A file with no name
 
 The file with no name could be opened in a text editor, and contained the following line: 
-`You mean, a dream within a dream? NTIgNDkgNTQgNTMgNDUgNDMgN2IgNDYgNDAgMjEgMjEgNjkgNmUgNjcgNDUgNmMgNjUgNzYgNDAgNzQgNmYgNzIgN2Q= `
+> You mean, a dream within a dream? NTIgNDkgNTQgNTMgNDUgNDMgN2IgNDYgNDAgMjEgMjEgNjkgNmUgNjcgNDUgNmMgNjUgNzYgNDAgNzQgNmYgNzIgN2Q=
+> 
 
 Used the hURL command to decode Base64 first, then HEX:
 <pre><font color="#5EBDAB">┌──(</font><font color="#277FFF"><b>asapzulu㉿kali</b></font><font color="#5EBDAB">)-[</font><b>~</b><font color="#5EBDAB">]</font>
@@ -31,6 +32,7 @@ Used the hURL command to decode Base64 first, then HEX:
 ThePointMan.txt contained several codes but turned out to be a "fake rabbithole" with strings like "Create a maze in two minutes that takes me one munite to solve. " and " You're waiting for a train, a train that will take you far away. You know where you hope this train will take you, but you can&apos;t be sure. but it doesn't matter - because we'll be together." when decoded. 
 
 Flag:
-`RITSEC{F@!!ingElev@tor}`
+> RITSEC{F@!!ingElev@tor}
+> 
 
 To be continued in [Inception CTF: Dream 4](https://github.com/AsapZulu1/CTF-writeups/blob/main/RITSEC-CTF-2021/STEGO/Inception%20CTF:%20Dream%204/Challenge%20and%20writeup.md), now in the STEGO category.
