@@ -8,7 +8,7 @@ The flag will need to be converted to RITSEC{}
 
 # Solution
 
-The password from the flag in [InceptionCTF: Dream 3](https://github.com/AsapZulu1/CTF-writeups/blob/main/RITSEC-CTF-2021/FORENSICS/Inception%20CTF:%20Dream%203/Challenge%20and%20writeup.md was used to extract files from SnowFortress.7z).
+The password from the flag in [Inception CTF: Dream 3](https://github.com/AsapZulu1/CTF-writeups/blob/main/RITSEC-CTF-2021/FORENSICS/Inception%20CTF:%20Dream%203/Challenge%20and%20writeup.md) was used to extract files from SnowFortress.7z.
 Extracted files:
 * Limbo.7z
 * PasswordPath.exe
