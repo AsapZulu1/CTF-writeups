@@ -8,7 +8,9 @@ Dream 1: We have to get to their subconscious first, look for a hidden text file
 
 # Solution
 
-The first flag was in the Subconcious.txt file extracted from the provided InceptionCTFRITSEC.7z. 
+The provided InceptionCTFRITSEC.7z contained Reality.7z
+
+The first flag was in the Subconcious.txt file extracted from the provided Reality.7z. 
 
 The textfile only contained this:
 Wait a minute, whose subconscious are we going into, exactly? {dnalmaerD}CESTIR
@@ -18,7 +20,7 @@ Reversed the last bit.
 Flag: 
 `RITSEC{Dreamland}`
 
-As the challenge suggests, the flag is also the password for the VanChase.7z that was also extracted from InceptionCTFRITSEC.7z
+As the challenge suggests, the flag is also the password for the VanChase.7z that was also extracted from Reality.7z
 
 
 ...to be continued in Inception CTF: Dream 2
