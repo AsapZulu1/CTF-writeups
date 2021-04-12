@@ -16,4 +16,9 @@ Wait a minute, whose subconscious are we going into, exactly? {dnalmaerD}CESTIR
 Reversed the last bit. 
 
 Flag: 
-RITSEC{Dreamland}
+`RITSEC{Dreamland}`
+
+As the challenge suggests, the flag is also the password for the VanChase.7z that was also extracted from InceptionCTFRITSEC.7z
+
+
+...to be continued in Inception CTF: Dream 2
