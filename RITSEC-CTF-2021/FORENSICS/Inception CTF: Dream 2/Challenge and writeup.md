@@ -31,4 +31,4 @@ I used the hURL command to decode the message:
 Flag:
 `RITSEC{WaterUnderTheBridge}`
 
-...to be continued in Inception CTF: Dream 3
+...to be continued in [Inception CTF: Dream 3](https://github.com/AsapZulu1/CTF-writeups/blob/main/RITSEC-CTF-2021/FORENSICS/Inception%20CTF:%20Dream%203/Challenge%20and%20writeup.md)
