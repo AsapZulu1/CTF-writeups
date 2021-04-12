@@ -24,4 +24,4 @@ Flag:
 As the challenge suggests, the flag is also the password for the VanChase.7z that was also extracted from Reality.7z
 
 
-...to be continued in Inception CTF: Dream 2
+...to be continued in [Inception CTF: Dream 2](https://github.com/AsapZulu1/CTF-writeups/blob/main/RITSEC-CTF-2021/FORENSICS/Inception%20CTF:%20Dream%202/Challenge%20and%20writeup.md)
