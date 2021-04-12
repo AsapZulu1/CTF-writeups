@@ -33,4 +33,4 @@ ThePointMan.txt contained several codes but turned out to be a "fake rabbithole"
 Flag:
 `RITSEC{F@!!ingElev@tor}`
 
-To be continued in [Inception CTF: Dream 4](), now in the STEGO category.
+To be continued in [Inception CTF: Dream 4](https://github.com/AsapZulu1/CTF-writeups/blob/main/RITSEC-CTF-2021/STEGO/Inception%20CTF:%20Dream%204/Challenge%20and%20writeup.md), now in the STEGO category.
