@@ -1,6 +1,6 @@
 # Challenge
 
-Note: This challenge builds off Inception CTF: Dream 1,
+Note: This challenge builds off [Inception CTF: Dream 1](https://github.com/AsapZulu1/CTF-writeups/blob/main/RITSEC-CTF-2021/FORENSICS/Inception%20CTF:%20Dream%201/Challenge%20and%20writeup.md).
 
 Unfortunately, the subconscious isn’t enough for this mission, we have to kidnap Fischer we need to go further into the system of the mind. Use the flag found to edit the PowerShell script, entering the Flag in line three in-between the single quotes. Run the PowerShell script and wait for it to complete its actions.
 
@@ -15,8 +15,8 @@ The VanChase.7z contained the following files:
 
 The txt-file contained this:
 
-``An idea is like a virus, resilient, highly contagious. 
-52 49 54 53 45 43 7b 57 61 74 65 72 55 6e 64 65 72 54 68 65 42 72 69 64 67 65 7d``
+> An idea is like a virus, resilient, highly contagious. 52 49 54 53 45 43 7b 57 61 74 65 72 55 6e 64 65 72 54 68 65 42 72 69 64 67 65 7d
+> 
 
 I used the hURL command to decode the message:
 
@@ -29,6 +29,7 @@ I used the hURL command to decode the message:
 
 
 Flag:
-`RITSEC{WaterUnderTheBridge}`
+> RITSEC{WaterUnderTheBridge}
+> 
 
 ...to be continued in [Inception CTF: Dream 3](https://github.com/AsapZulu1/CTF-writeups/blob/main/RITSEC-CTF-2021/FORENSICS/Inception%20CTF:%20Dream%203/Challenge%20and%20writeup.md)
